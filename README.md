@@ -49,7 +49,7 @@ npm i naughty.js
 
 ```js
 const naughty = require("naughty.js");
-naughty
+naughty.match("This is the text that would be searched through for naughty words.");
 ```
 
 ## Legal
